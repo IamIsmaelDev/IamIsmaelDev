@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **Ismaelabed.jobs@gmail.com**
 
-- ⚡ Fun fact **Software developer and Athlete**
+- ⚡ Fun fact **Software Developer and Athlete**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
