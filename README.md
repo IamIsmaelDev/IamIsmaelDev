@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ismael Abed</h1>
-<h3 align="center">A passionate Software developer from Zaragoza, Spain.</h3>
+<h3 align="center">A Software Developer from Zaragoza, Spain.</h3>
 
 - 🔭 I’m currently studying at [Salesianos Zaragoza](https://zaragoza.salesianos.edu/)
 
