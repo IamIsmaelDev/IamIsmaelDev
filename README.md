@@ -14,5 +14,19 @@ class CodeExplorer:
     def bio(self):
         return f"👨‍💻 ¡Hola, mundo! Soy {self.name}, un {self.age}-añero apasionado por {self.favorite_tech}. Mi superpoder: {self.superpower}. Navego el código en mi {self.preferred_transport}."
 
-me = CodeExplorer("Tu Nombre", 27, "JavaScript", "debugging sin lágrimas", "teclado volador")
+me = CodeExplorer("Ismael", 20, "Java", "cazador de bugs", "teclado volador")
 print(me.bio())
+
+Acerca de mi Odisea Codificada:
+
+class CodingJourneys:
+    def __init__(self, current_location, favorite_destination):
+        self.current_location = current_location
+        self.favorite_destination = favorite_destination
+
+    def explore(self):
+        return f"✈️ Actualmente explorando la región {self.current_location}. Mi destino soñado: {self.favorite_destination}."
+
+my_journeys = CodingJourneys("Código Central", "Algoritmo Isle")
+print(my_journeys.explore())
+
