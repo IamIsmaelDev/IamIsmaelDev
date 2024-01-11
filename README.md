@@ -1,6 +1,6 @@
 ### ¡Desarrollador y Viajero del Código! 🌍✈️
 
-¡Saludos, aventureros del código! Soy [Tu Nombre], un explorador intrépido de bits y bytes que ha hecho del mundo su hogar y de la programación su lengua materna. 🚀💻
+¡Saludos, aventureros del código! Soy Ismael, un explorador intrépido de bits y bytes que ha hecho del mundo su hogar y de la programación su lengua materna. 🚀💻
 
 ```python
 class CodeExplorer:
