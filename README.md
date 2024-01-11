@@ -27,7 +27,7 @@ class CodingJourneys:
     def explore(self):
         return f"✈️ Actualmente explorando la región {self.current_location}. Mi destino soñado: {self.favorite_destination}."
 
-my_journeys = CodingJourneys("Código Central", "Algoritmo Isle")
+my_journeys = CodingJourneys("Python Central", "Java Island")
 print(my_journeys.explore())
 ```
 
