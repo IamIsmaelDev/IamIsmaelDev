@@ -1,6 +1,6 @@
-# ¡Desarrollador y Viajero del Código! 🌍✈️
+# Developer and Code Traveler! 🌍✈️
 
-¡Saludos, aventureros del código! Soy Ismael, un explorador intrépido de bits y bytes que ha hecho del mundo su hogar y de la programación su lengua materna. 🚀💻
+Greetings, code adventurers! I'm Ismael, a fearless explorer of bits and bytes who has made the world his home and programming his mother tongue. 🚀💻
 
 ```python
 class CodeExplorer:
@@ -12,13 +12,13 @@ class CodeExplorer:
         self.preferred_transport = preferred_transport
 
     def bio(self):
-        return f"👨‍💻 ¡Hola, mundo! Soy {self.name}, un {self.age}-añero apasionado por {self.favorite_tech}. Mi superpoder: {self.superpower}. Navego el código en mi {self.preferred_transport}."
+        return f"👨‍💻 Hello, world! I'm {self.name}, a {self.age}-year-old passionate about {self.favorite_tech}. My superpower: {self.superpower}. I navigate the code on my {self.preferred_transport}."
 
-me = CodeExplorer("Ismael", 20, "Java", "cazador de bugs", "teclado volador")
+me = CodeExplorer("Ismael", 20, "Java", "bug hunter", "flying keyboard")
 print(me.bio())
 ```
 
-## Acerca de mi Odisea Codificada
+## About My Coded Odyssey
 
 ```python
 class CodingJourneys:
@@ -27,18 +27,16 @@ class CodingJourneys:
         self.favorite_destination = favorite_destination
 
     def explore(self):
-        return f"✈️ Actualmente explorando la región {self.current_location}. Mi destino soñado: {self.favorite_destination}."
+        return f"✈️ Currently exploring the {self.current_location} region. My dream destination: {self.favorite_destination}."
 
 my_journeys = CodingJourneys("Python Central", "Java Island")
 print(my_journeys.explore())
 ```
 
-## Frase Inspiradora
+## Inspirational Quote
 
 ```
-"Viajar es como programar: cuanto más lo haces, más difícil es regresar al estado original. 🌍🔄"
+"Traveling is like programming: the more you do it, the harder it is to return to the original state. 🌍🔄"
 ```
 
-#### ¡Gracias por aterrizar en mi repositorio! Si encuentras un bug, ¡es probable que esté de vacaciones en alguna línea de código! 🐞✨
-
-
+#### Thanks for landing on my repository! If you find a bug, I might be on vacation in some line of code! 🐞✨
