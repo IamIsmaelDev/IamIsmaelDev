@@ -1,4 +1,4 @@
-### ¡Desarrollador y Viajero del Código! 🌍✈️
+# ¡Desarrollador y Viajero del Código! 🌍✈️
 
 ¡Saludos, aventureros del código! Soy Ismael, un explorador intrépido de bits y bytes que ha hecho del mundo su hogar y de la programación su lengua materna. 🚀💻
 
@@ -17,7 +17,9 @@ class CodeExplorer:
 me = CodeExplorer("Ismael", 20, "Java", "cazador de bugs", "teclado volador")
 print(me.bio())
 ```
-## Acerca de mi Odisea Codificada:
+
+## Acerca de mi Odisea Codificada
+
 ```python
 class CodingJourneys:
     def __init__(self, current_location, favorite_destination):
@@ -30,5 +32,13 @@ class CodingJourneys:
 my_journeys = CodingJourneys("Python Central", "Java Island")
 print(my_journeys.explore())
 ```
+
+## Frase Inspiradora
+
+```
+"Viajar es como programar: cuanto más lo haces, más difícil es regresar al estado original. 🌍🔄"
+```
+
+#### ¡Gracias por aterrizar en mi repositorio! Si encuentras un bug, ¡es probable que esté de vacaciones en alguna línea de código! 🐞✨
 
 
