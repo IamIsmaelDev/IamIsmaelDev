@@ -17,7 +17,7 @@ class CodeExplorer:
 me = CodeExplorer("Ismael", 20, "Java", "cazador de bugs", "teclado volador")
 print(me.bio())
 ```
-Acerca de mi Odisea Codificada:
+## Acerca de mi Odisea Codificada:
 ```python
 class CodingJourneys:
     def __init__(self, current_location, favorite_destination):
