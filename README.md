@@ -1,6 +1,9 @@
 # 💫 About Me:
-I am a passionate developer with a longstanding interest in technology and programming, a field that has driven my education and professional growth. I hold a degree in Cross-Platform Application Development, complemented by a certification in Computer Systems and Networking.<br><br>I am drawn to programming because of the opportunity it provides to create practical solutions and tools that streamline processes and simplify everyday tasks. Through my education and experience, I have built a strong foundation in various programming languages, database management, and version control systems, equipping me to tackle the challenges of modern software development.<br><br>I am currently seeking an opportunity as a programmer where I can apply and expand my skills, contribute to innovative projects, and grow within a dynamic environment. I am open to new roles that allow me to develop professionally and create value through technology.
-
+With a longstanding passion for technology and programming, my journey has been fueled by a commitment to growth and learning in the tech field. Recently, I earned a degree in Cross-Platform Application Development, which I further complemented with a certification in Computer Systems and Networking.
+<br/><br/>
+Programming offers the unique ability to create practical solutions and streamline everyday tasks, an aspect that drives my interest in software development. My academic and hands-on experience has provided a solid foundation in multiple programming languages, database management, and version control systems, preparing me to meet the demands of modern development.
+<br/><br/>
+Currently, I am seeking a role that allows me to apply and expand these skills within a dynamic and innovative environment. Open to new challenges, I’m excited to contribute meaningfully to projects that create real value through technology.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamismaeldev/) 
