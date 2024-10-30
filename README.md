@@ -1,42 +1,21 @@
-# Developer and Code Traveler! 🌍✈️
+# 💫 About Me:
+I am a passionate developer with a longstanding interest in technology and programming, a field that has driven my education and professional growth. I hold a degree in Cross-Platform Application Development, complemented by a certification in Computer Systems and Networking.<br><br>I am drawn to programming because of the opportunity it provides to create practical solutions and tools that streamline processes and simplify everyday tasks. Through my education and experience, I have built a strong foundation in various programming languages, database management, and version control systems, equipping me to tackle the challenges of modern software development.<br><br>I am currently seeking an opportunity as a programmer where I can apply and expand my skills, contribute to innovative projects, and grow within a dynamic environment. I am open to new roles that allow me to develop professionally and create value through technology.
 
-Greetings, code adventurers! I'm Ismael, a fearless explorer of bits and bytes who has made the world his home and programming his mother tongue. 🚀💻
 
-```python
-class CodeExplorer:
-    def __init__(self, name, age, favorite_tech, superpower, preferred_transport):
-        self.name = name
-        self.age = age
-        self.favorite_tech = favorite_tech
-        self.superpower = superpower
-        self.preferred_transport = preferred_transport
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/iamismaeldev/) 
 
-    def bio(self):
-        return f"👨‍💻 Hello, world! I'm {self.name}, a {self.age}-year-old passionate about {self.favorite_tech}. My superpower: {self.superpower}. I navigate the code on my {self.preferred_transport}."
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=IamIsmaelDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=IamIsmaelDev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=IamIsmaelDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-me = CodeExplorer("Ismael", 20, "Java", "bug hunter", "flying keyboard")
-print(me.bio())
-```
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## About My Coded Odyssey
+---
+[![](https://visitcount.itsvg.in/api?id=IamIsmaelDev&icon=1&color=5)](https://visitcount.itsvg.in)
 
-```python
-class CodingJourneys:
-    def __init__(self, current_location, favorite_destination):
-        self.current_location = current_location
-        self.favorite_destination = favorite_destination
-
-    def explore(self):
-        return f"✈️ Currently exploring the {self.current_location} region. My dream destination: {self.favorite_destination}."
-
-my_journeys = CodingJourneys("Python Central", "Java Island")
-print(my_journeys.explore())
-```
-
-## Inspirational Quote
-
-```
-"Traveling is like programming: the more you do it, the harder it is to return to the original state. 🌍🔄"
-```
-
-#### Thanks for landing on my repository! If you find a bug, I might be on vacation in some line of code! 🐞✨
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
